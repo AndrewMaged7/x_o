@@ -24,7 +24,7 @@ class _XoScreenState extends State<XoScreen> {
       appBar: AppBar(
           backgroundColor: Colors.cyan,
           title: const Text(
-            "X O GAME",
+            "X O GAME Andrew",
             style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
           )),
       body: Column(
